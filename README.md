@@ -1,4 +1,4 @@
-# General CSS notes, advice and guidelines
+# HTML & CSS Resources
 
 ---
 
