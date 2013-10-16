@@ -4,10 +4,10 @@
 
 ## Introduction
 
-* [CSS Guidelines from Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
 * [Codecademy Web Fundamentals](http://www.codecademy.com/tracks/web)
 * [30 Days to learn HTML and CSS](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [CSS Guidelines from Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
 * [OOCSS](http://oocss.org/)
 * [Web Standards, CSS, HTML, Javascript](http://www.yellowshoe.com.au/standards/)
 * [Defensive HTML and CSS](http://www.webdesignerdepot.com/2013/04/defensive-html-and-css)
