@@ -8,6 +8,8 @@
 * [30 Days to learn HTML and CSS](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
 * [CSS Guidelines from Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [treehouse Websites](http://teamtreehouse.com/library/websites)
+* [Dash Tutorials](https://dash.generalassemb.ly/)
 * [CSS Guidelines from Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
 * [OOCSS](http://oocss.org/)
 * [Web Standards, CSS, HTML, Javascript](http://www.yellowshoe.com.au/standards/)
