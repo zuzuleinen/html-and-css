@@ -10,7 +10,6 @@
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [treehouse Websites](http://teamtreehouse.com/library/websites)
 * [Dash Tutorials](https://dash.generalassemb.ly/)
-* [CSS Guidelines from Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
 * [OOCSS](http://oocss.org/)
 * [Web Standards, CSS, HTML, Javascript](http://www.yellowshoe.com.au/standards/)
 * [An introduction to HTML5, CSS3 and responsive design](http://www.developerdrive.com/2013/03/an-introduction-to-html5-css3-and-responsive-design/)
