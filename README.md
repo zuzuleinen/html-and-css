@@ -38,6 +38,7 @@
 * [3 Must-Learn CSS Techniques for Perfect Web Typography](http://designshack.net/articles/css/3-must-learn-css-techniques-for-perfect-web-typography/)
 * [Code Smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/)
 * [CSS Tehniques you couldn't live without](http://coding.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without/)
+* [5 Steps to Drastically Improve Your CSS Knowledge in 24 Hours](http://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/)
 
 ---
 
