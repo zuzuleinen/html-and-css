@@ -130,6 +130,8 @@
 * [Create Responsive E-mails](http://www.getresponse.com/features/responsive-email-design.html)
 * [Antwort](http://internations.github.io/antwort/)
 
+---
+
 ## Other resources
 
 * [Huge List of Frontend Development Tools](https://github.com/codylindley/frontend-tools)
